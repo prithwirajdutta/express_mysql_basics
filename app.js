@@ -14,7 +14,7 @@ app.get("/",(req,res) => {
 
 app.get("/:id",(req,res) => {
   console.log("wow its working")
-  res.send("thank you shivbaba")
+  res.send("thank you")
 })
 
 app.listen(3003,() =>{
