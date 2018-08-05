@@ -1,4 +1,4 @@
-# express_mysql_basics
+# Building a NodeJs and Mysql basic Application using ExpressJs
 
 1. Get Data from Database
 
