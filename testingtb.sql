@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 29, 2018 at 11:26 AM
+-- Generation Time: Aug 05, 2018 at 12:51 PM
 -- Server version: 10.1.33-MariaDB
 -- PHP Version: 7.2.5
 
@@ -38,7 +38,7 @@ CREATE TABLE `testingtb` (
 --
 
 INSERT INTO `testingtb` (`id`, `name`) VALUES
-(1, 'prithwiraj dutta');
+(1, 'prithwirajdutta');
 
 --
 -- Indexes for dumped tables
